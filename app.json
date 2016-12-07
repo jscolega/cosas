@@ -1,6 +1,15 @@
 {
-  "name": "Node.js WebSocket Example",
-  "description": "Part of the Using WebSockets on Heroku Tutorial",
-  "repository": "https://github.com/heroku-examples/node-websockets",
-  "keywords": ["node", "websocket"]
+  "name": "cosas",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
 }
